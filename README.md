@@ -1,1 +1,1 @@
-# data-mingin-assignments-
+# data-mining-assignments-
